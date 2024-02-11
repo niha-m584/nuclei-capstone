@@ -56,10 +56,6 @@ folder_path : path to folder containing images
 
 1. **output/time txt file** - text file containing the coordinates of the located bounding boxes in the image
 
-#### Output
-
-1. **norm folder** - folder containing normalized images
-
 ### `parse_boxes`
 Uses output of coordinates from `find_boxes` to generate cell parsed cell images.
 
