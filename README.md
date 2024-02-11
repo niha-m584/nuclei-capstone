@@ -13,7 +13,6 @@ our personal testing and early implemntations.
 
 | Folder      | Description |
 | ----------- | ----------- |
-| sample      | Folder containing sample images to use with our project       |
 | src   | Contains our Python scripts        |
 
 ## Installation
