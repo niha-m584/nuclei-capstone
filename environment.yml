@@ -1,0 +1,11 @@
+name: cnn-cap
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - pandas
+prefix: /Users/William/anaconda3/envs/cnn-cap
